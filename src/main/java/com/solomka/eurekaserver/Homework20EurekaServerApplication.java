@@ -1,0 +1,13 @@
+package com.solomka.eurekaserver;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Homework20EurekaServerApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(Homework20EurekaServerApplication.class, args);
+    }
+
+}
